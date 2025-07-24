@@ -1,0 +1,8 @@
+qa
+js
+ts
+playwright
+api
+webdriverio
+aqa
+git
